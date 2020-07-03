@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  CloudFrontCell.swift
 //  JobTest
 //
 //  Created by Dana Devoe on 5/14/17.
